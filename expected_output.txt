@@ -1,0 +1,72 @@
+Optimal point based on max efficiencyAir (Pressure Ratio: 7.40 - Efficiency: 38.24% - Net Work: 4456.35 kJ/m^3)Point	 Pressure (bar)	 Temperature (K)
+1		 20.00		 300.00
+2		 54.40		 413.65
+3		 53.86		 300.00
+4		 147.96		 414.98
+5		 144.26		 600.84
+6		 139.94		 1100.00
+7		 20.72		 680.49
+8		 20.20		 494.63
+HELIUM (Pressure Ratio: 4.28 | Efficiency: 37.23% | Net Work: 3090.81 kJ/m^3)Point	 Pressure (bar)	 Temperature (K)
+1		 20.00		 300.00
+2		 41.40		 415.95
+3		 40.98		 300.00
+4		 85.69		 417.83
+5		 83.55		 601.91
+6		 81.04		 1100.00
+7		 20.72		 680.79
+8		 20.20		 496.72
+Optimal point based on Max Net WorkAIR (Pressure Ratio for Max Work: 13.63 | Efficiency: 36.53% | Net Work: 4725.29 kJ/m^3)Point	 Pressure (bar)	 Temperature (K)
+1		 20.00		 300.00
+2		 73.82		 456.25
+3		 73.09		 300.00
+4		 272.50		 457.72
+5		 265.69		 545.86
+6		 257.72		 1100.00
+7		 20.72		 583.63
+8		 20.20		 495.49
+HELIUM (Pressure Ratio for Max Work: 6.56 | Efficiency: 35.60% | Net Work: 3274.79 kJ/m^3)Point	 Pressure (bar)	 Temperature (K)
+1		 20.00		 300.00
+2		 51.23		 457.74
+3		 50.72		 300.00
+4		 131.24		 459.81
+5		 127.96		 548.14
+6		 124.12		 1100.00
+7		 20.72		 585.99
+8		 20.20		 497.66
+Utopia Point Optimization AIR (Trade-off Pressure Ratio: 10.19 | Efficiency: 37.74% | Net Work: 4665.13 kJ/m^3)Point	 Pressure (bar)	 Temperature (K)1		 20.00		 300.00
+2		 63.86		 435.49
+3		 63.22		 300.00
+4		 203.89		 436.90
+5		 198.79		 570.52
+6		 192.83		 1100.00
+7		 20.72		 627.79
+8		 20.20		 494.16
+ HELIUM (Trade-off Pressure Ratio: 5.38 | Efficiency: 36.74% | Net Work: 3235.14 kJ/m^3)Point	 Pressure (bar)	 Temperature (K)
+1		 20.00		 300.00
+2		 46.39		 437.77
+3		 45.93		 300.00
+4		 107.60		 439.75
+5		 104.91		 571.80
+6		 101.77		 1100.00
+7		 20.72		 628.39
+8		 20.20		 496.34
+NTU = epsilon/(1-epsilon) = 9.000
+Air HX mean temperature = 532.342 K
+Helium HX mean temperature = 534.072 K
+rho_He/rho_air at HX = 0.138
+mu_He/mu_air at HX = 1.048
+k_He/k_air at HX = 5.399
+Calculated h_He/h_air = 2.092
+Used h_He/h_air = 1.860
+Calculated U_He/U_air = 1.860
+A_air = 90.000 m^2
+A_He  = 48.387 m^2
+A_He/A_air = 0.538
+Helium heat exchanger area reduction = 46.24 %
+M_air = 1350.000 kg
+M_He  = 725.806 kg
+Mass reduction = 46.24 %
+Cost_air = 22730.01 USD
+Cost_He  = 18967.38 USD
+Cost reduction = 16.55 %

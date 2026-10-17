@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this model or report, please cite it as below."
+title: "Preliminary Design and Real-System Benchmarking of Air/Helium Closed-Cycle Gas Turbine Systems"
+type: software
+authors:
+  - given-names: Armin
+    family-names: Aghazadeh
+    https://orcid.org/0009-0005-9361-9623
+    affiliation: "School of Mechanical Engineering, University of Tehran"
+  - given-names: Sadra
+    family-names: Adib
+    affiliation: "School of Mechanical Engineering, University of Tehran"
+version: "1.0.0"
+license: MIT
+keywords:
+  - closed-cycle gas turbine
+  - Brayton cycle
+  - helium
+  - recuperator
+  - MATLAB
+abstract: "MATLAB model and report comparing air and helium as working fluids in an intercooled, recuperated closed-cycle gas turbine: thermal efficiency, volumetric net work, optimum pressure ratio, and recuperator area, mass and cost."
