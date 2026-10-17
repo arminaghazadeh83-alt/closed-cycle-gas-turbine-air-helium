@@ -5,7 +5,7 @@ type: software
 authors:
   - given-names: Armin
     family-names: Aghazadeh
-    https://orcid.org/0009-0005-9361-9623
+    orcid: "https://orcid.org/0009-0005-9361-9623"
     affiliation: "School of Mechanical Engineering, University of Tehran"
   - given-names: Sadra
     family-names: Adib
